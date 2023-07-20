@@ -1,0 +1,111 @@
+meen stack course
+
+1. what is full stack ?
+ parts of full stack
+ 
+ 1. What is frontend developments?
+ 2. Frontend languages?
+ 3. Frontend libraries and frameworks 
+ 4. What is bakend developments?
+ 5. Backend languages and frameworks
+ 6. Database
+ 
+ So lets start
+ 
+ 1. What is frontend developments?
+  
+  so the frontend is the visible the part of the website of the web application which is responsible for user experience.The user directlly intract with the frontend posson of the website or the application
+
+ 2. Frontend Languages ?
+ 
+	HTML, CSS, JS its all define text documention  
+	
+	javascript is client side scripting language and is meenlly use intraction of the user
+	
+	
+	javascript frameworks and libraries
+	
+	1. React 
+	2. Angular
+	3. view
+	4. jquery
+	5. Bootsrap
+	
+	now all the help of developments frontend application
+	
+  3. What is Backend Development?
+  
+	now thw backend is refers to the server side developments of the app
+	manage the database using queries and APIS
+	
+	node js: node and epress are provide the packge of the javascript.
+	
+  4. Database 
+		Database management systems 
+		Database systems provide the space for easy addtions, retrive, and deletion of data.
+	  
+	
+	
+	Now what is stack?
+	
+	Stack is two parts server side and client side
+	
+	server side : is not visible the user.
+	client side: is visible on the client side.
+	
+// mean stack	
+Now what is the mean stack?	
+	Mean stack is defined as a collection of javascript technologies that can assist in building complex website and apps
+	like : mongo db, express js, angular js, nodejs.
+
+	mean stack use angular is javascript frameworks build single page application.
+	type script language
+		is visa-versa the flow the data bi directional model state is not updated is fine all.
+		has a better learning curve
+	
+what is the mearn stack	?
+	Mern it also has the comprised of four frameworks.
+		lke : mongo db, express js, react, nodejs.
+		
+		mern stack use the react open script library
+		javascript and jsx
+		the flow the data bi undirectional model state is updated all the changes render in the view part of the application.
+		making developments extermlly smooth.
+		
+what is jsx?
+	jsx is the combinationstion of html + js.
+		
+
+now Start React
+	
+		What are components ?
+		
+		Types of components 
+		
+		Nesting components
+		
+		higher order and pure components
+		
+		Components lifecycle
+	
+	
+	Components: build a block of react applications	that represent a part of the user interface must define a render methods
+	
+	Types of Components: 1. stateless function 2. stateful class
+	
+	1. stateless: They are javascript function 
+		The return html 
+		can be contain .js or jsx
+	
+	2. Stateful: Regular class extend the component class.
+		They must contain a render method that return the html
+		an be contain .js or jsx
+		
+		now key feature of class components is the usage of render method.
+
+// Create a nav Bar
+
+   1. Basically name of function should be same of file name.
+   2. When Created the nav.js file then call the file in app.js
+   3. When you import the file in app.js then should be use import browser router Nav bar besically inside the Browser router without browser router not recomended. 
+
