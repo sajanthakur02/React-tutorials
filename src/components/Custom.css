@@ -2,3 +2,40 @@
     display: inline-block;
     padding: 10px;
 }
+.nav-ul li a {
+    padding: 5px;
+    color: white;
+    text-decoration: none; 
+}
+.nav-ul{
+    padding: 5px;
+    margin: 0px;
+    background-color: skyblue;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: skyblue;
+}
+.inputBox {
+    display: block;
+    margin: 15px 40%;
+    padding: 7px;
+    width: 300px;
+    border: 1px solid skyblue;
+    position: relative;
+}
+.container{
+    text-align: center;
+}
+.btn {
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    border: 1px solid white;
+    background-color: skyblue;
+    color: white;
+    cursor: pointer;
+}

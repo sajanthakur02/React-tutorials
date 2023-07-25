@@ -109,3 +109,23 @@ now Start React
    2. When Created the nav.js file then call the file in app.js
    3. When you import the file in app.js then should be use import browser router Nav bar besically inside the Browser router without browser router not recomended. 
 
+Push project in git
+
+// command lines 
+# git init only first time 
+# Git add .
+# Git commit -m "message"
+# git remote add origin which repository to use this url.
+# change branch git checkout -b "name"
+# git push -u origin 
+
+// Route 
+Path should be same in App.js as the define in file.
+
+// Sign up page layout
+# Make a component for sign up
+# Make input fields
+# Get form Data
+
+After that get all data in state to integrate to inside of APIS
+
